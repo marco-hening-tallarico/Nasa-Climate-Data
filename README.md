@@ -1,6 +1,6 @@
 # Nasa-Climate-Data
 
-Here's a bunch of climate data from the NASA POWER API.
+Here's a bunch of climate data from the NASA POWER API. 
 
 ## Table of contents
 - [About](#about)
